@@ -2,7 +2,7 @@
 
 ## 🧰 Software and Tools Required
 1. [GitHub Account](https://github.com/)
-2. [Heroku Account](https://www.heroku.com/)
+2. [Render Account](https://render.com/)
 3. [VS Code IDE](https://code.visualstudio.com/)
 
 ---
