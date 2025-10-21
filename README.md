@@ -1,1 +1,13 @@
-# Boston-House-Pricing-Prediction
+# 🏠 Boston House Pricing Prediction
+
+## 🧰 Software and Tools Required
+1. [GitHub Account](https://github.com/)
+2. [Heroku Account](https://www.heroku.com/)
+3. [VS Code IDE](https://code.visualstudio.com/)
+
+---
+
+## ⚙️ Create a New Virtual Environment
+
+```bash
+python -m venv myenv
